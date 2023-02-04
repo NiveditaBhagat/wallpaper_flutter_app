@@ -1,6 +1,6 @@
 # wallpaper_flutter
 
-A new Flutter project.
+Wallpaper App using Pexels API in Flutter
 
 ## Getting Started
 
